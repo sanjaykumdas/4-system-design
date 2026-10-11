@@ -1,0 +1,22 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "Run Python with input.txt",
+            "type": "shell",
+            "command": "bash",
+            "args": [
+                "-c",
+                "python3 '${workspaceFolder}/Problem-Practice/Practice/1.py' < '${workspaceFolder}/Problem-Practice/Practice/input.txt' > '${workspaceFolder}/Problem-Practice/Practice/output.txt' 2>&1"
+            ],
+            "options": {
+                "cwd": "${workspaceFolder}"
+            },
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "problemMatcher": []
+        }
+    ]
+}

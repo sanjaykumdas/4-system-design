@@ -1,0 +1,309 @@
+Problem
+=======
+
+1. Basic Python programs
+- Print Hello World
+- Take user input and display output
+- Add two numbers
+- Swap two numbers
+- Swap without a temporary variable
+- Calculate the area of a circle
+- Calculate simple and compound interest
+- Convert Celsius to Fahrenheit
+- Convert days into years, months and days
+- Convert seconds into hours, minutes and seconds
+- Find ASCII value of a character
+- Check the data type of a variable
+
+2. Conditional statements
+- Check even or odd
+- Check positive, negative or zero
+- Find the largest of two numbers
+- Find the largest of three numbers
+- Find the smallest of three numbers
+- Check leap year
+- Check voting eligibility
+- Check whether a character is a vowel or consonant
+- Build a calculator using operators
+- Assign grades based on marks
+- Check divisibility by 5 and 11
+- Check whether three sides form a triangle
+- Identify the type of triangle
+- Calculate electricity bill using slabs
+
+3. Loop-based programs
+- Print numbers from 1 to N
+- Print numbers from N to 1
+- Print even numbers in a range
+- Print odd numbers in a range
+- Sum numbers from 1 to N
+- Sum even and odd numbers separately
+- Print multiplication table
+- Print tables in a range
+- Count numbers divisible by a given value
+- Calculate the sum of squares from 1 to N
+- Calculate factorial using a loop
+- Print a sequence with a given step
+- Find the first N multiples of a number
+- Generate a simple menu-driven program
+
+4. Number-based programs
+- Count digits in a number
+- Find the sum of digits
+- Find the product of digits
+- Reverse a number
+- Check palindrome number
+- Check prime number
+- Print prime numbers in a range
+- Count prime numbers in a range
+- Find factors of a number
+- Count factors of a number
+- Find sum of factors
+- Check perfect number
+- Check strong number
+- Check Armstrong number
+- Print Armstrong numbers in a range
+- Check automorphic number
+- Check Harshad/Niven number
+- Check abundant or deficient number
+- Check neon number
+- Check spy number
+- Check duck number
+- Check sunny number
+- Check evil or odious number
+- Check a number is a power of two
+- Find the digital root
+- Find the GCD/HCF of two numbers
+- Find the LCM of two numbers
+- Find GCD using the Euclidean algorithm
+- Convert decimal to binary
+- Convert binary to decimal
+- Convert decimal to octal and hexadecimal
+- Convert binary to octal and hexadecimal
+- Find the number of trailing zeros in factorial
+- Find the nth prime number
+- Find the prime factors of a number
+- Find the largest prime factor
+- Check coprime numbers
+- Find the sum of proper divisors
+- Find all amicable pairs in a range
+
+5. Mathematical programs
+- Calculate factorial
+- Generate Fibonacci series
+- Find the nth Fibonacci number
+- Find the sum of an arithmetic progression
+- Find the sum of a geometric progression
+- Calculate powers without using **
+- Calculate square root using iteration
+- Calculate x raised to n using fast exponentiation
+- Calculate permutation nPr
+- Calculate combination nCr
+- Generate Pascal's triangle
+- Check perfect square
+- Check perfect cube
+- Find square and cube roots
+- Find the number of digits in n!
+- Calculate modular exponentiation
+- Find the greatest common divisor of multiple numbers
+- Find the sum of natural numbers using a formula
+- Approximate pi using a series
+- Solve a quadratic equation
+
+6. Pattern programs
+- Print a square star pattern
+- Print a rectangle pattern
+- Print a right triangle
+- Print an inverted right triangle
+- Print a left-aligned number triangle
+- Print a pyramid
+- Print an inverted pyramid
+- Print a diamond
+- Print a hollow square
+- Print a hollow pyramid
+- Print a hollow diamond
+- Print Floyd's triangle
+- Print Pascal's triangle
+- Print a 0-1 triangle
+- Print a butterfly pattern
+- Print a zigzag pattern
+- Print an alphabet triangle
+- Print a number pyramid
+- Print a palindromic number pyramid
+- Print a concentric number square
+
+7. String programs
+- Reverse a string
+- Check palindrome string
+- Count vowels and consonants
+- Count letters, digits and special characters
+- Count words in a sentence
+- Count occurrences of a character
+- Find the frequency of each character
+- Remove spaces from a string
+- Remove duplicate characters
+- Find the first non-repeating character
+- Find the first repeating character
+- Check anagram strings
+- Check whether strings are rotations
+- Find the longest word
+- Capitalize each word
+- Convert uppercase to lowercase without built-in methods
+- Replace a substring
+- Reverse each word in a sentence
+- Reverse word order in a sentence
+- Check whether a string contains only digits
+- Find all substrings
+- Find the longest common prefix
+- Check balanced parentheses
+- Compress a string using character counts
+- Find the longest substring without repeating characters
+
+8. List and array programs
+- Find the sum of array elements
+- Find minimum and maximum
+- Find the second-largest element
+- Find the second-smallest element
+- Reverse an array
+- Sort an array without sort()
+- Remove duplicates
+- Count the frequency of each element
+- Find missing numbers in a range
+- Find a duplicate element
+- Move zeros to the end
+- Separate even and odd numbers
+- Merge two sorted arrays
+- Find the intersection of two arrays
+- Find the union of two arrays
+- Rotate an array left or right
+- Find a pair with a target sum
+- Find triplets with a target sum
+- Find the maximum subarray sum
+- Find the majority element
+- Find the equilibrium index
+- Find the leaders in an array
+- Find the longest consecutive sequence
+- Perform binary search
+- Perform linear search
+- Find the insertion position in a sorted array
+
+9. Matrix programs
+- Create and display a matrix
+- Add two matrices
+- Subtract two matrices
+- Multiply two matrices
+- Transpose a matrix
+- Find diagonal sums
+- Find the upper and lower triangular matrices
+- Check identity matrix
+- Check symmetric matrix
+- Rotate a matrix 90 degrees
+- Print matrix in spiral order
+- Search in a sorted matrix
+- Set matrix rows and columns to zero
+- Find the maximum-sum row
+- Find the number of islands in a grid
+
+10. Functions and recursion
+- Create functions with parameters and return values
+- Use default and keyword arguments
+- Calculate factorial using recursion
+- Generate Fibonacci using recursion
+- Find the sum of digits recursively
+- Reverse a string recursively
+- Calculate power recursively
+- Find GCD recursively
+- Solve Tower of Hanoi
+- Generate all subsets recursively
+- Generate permutations of a string
+- Solve the N-Queens problem
+- Solve a maze using backtracking
+- Generate balanced parentheses
+
+11. Searching and sorting algorithms
+- Linear search
+- Binary search iterative
+- Binary search recursive
+- Bubble sort
+- Selection sort
+- Insertion sort
+- Merge sort
+- Quick sort
+- Heap sort
+- Counting sort
+- Radix sort
+- Bucket sort
+- Search in a rotated sorted array
+- Find first and last occurrence
+- Find kth-largest element
+- Find kth-smallest element
+
+12. Data structures
+- Implement a stack using a list
+- Implement a queue
+- Implement a circular queue
+- Implement a deque
+- Implement a singly linked list
+- Implement a doubly linked list
+- Reverse a linked list
+- Detect a linked-list cycle
+- Find the middle of a linked list
+- Merge two sorted linked lists
+- Implement a hash table
+- Implement a binary tree
+- Implement tree traversals
+- Find tree height and diameter
+- Validate a binary search tree
+- Implement a heap and priority queue
+- Implement a trie
+- Implement a graph using an adjacency list
+- Implement BFS and DFS
+- Find connected components
+
+13. Advanced DSA
+- Solve the two-sum problem using a hash map
+- Implement sliding window maximum
+- Find longest substring with constraints
+- Solve maximum subarray using Kadane's algorithm
+- Merge overlapping intervals
+- Find shortest path using BFS
+- Implement Dijkstra's algorithm
+- Implement Bellman-Ford
+- Implement Floyd-Warshall
+- Find a minimum spanning tree using Prim's algorithm
+- Find a minimum spanning tree using Kruskal's algorithm
+- Implement topological sorting
+- Detect cycles in directed and undirected graphs
+- Implement union-find/disjoint set
+- Solve coin change using dynamic programming
+- Solve longest common subsequence
+- Solve longest increasing subsequence
+- Solve edit distance
+- Solve 0/1 knapsack
+- Solve word break
+- Solve matrix-chain multiplication
+- Implement bit manipulation problems
+- Solve range queries with Fenwick tree
+- Solve range queries with segment tree
+
+14. Python-specific and practical programs
+- Use list, dictionary, set and tuple comprehensions
+- Sort a list of dictionaries by a key
+- Use lambda, map, filter and zip
+- Implement an iterator and generator
+- Write a decorator
+- Build a custom context manager
+- Read and write text files
+- Read and write CSV and JSON
+- Handle exceptions
+- Create custom exceptions
+- Use regular expressions for validation
+- Create a command-line calculator
+- Build a contact book using file storage
+- Build a student management system
+- Build a library management system
+- Build a bank account simulation
+- Create a log-file analyzer
+- Build an API client using requests
+- Write unit tests using pytest
+- Build a Python application using classes and modules
